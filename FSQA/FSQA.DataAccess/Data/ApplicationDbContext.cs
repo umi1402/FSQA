@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FSQA.Data
+namespace FSQA.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace FSQA.Models
+namespace FSQA.Models.ViewModels
 {
     public class ErrorViewModel
     {
